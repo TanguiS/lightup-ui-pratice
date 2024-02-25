@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/red_light.png</file>
+        <file>icons/light.png</file>
+        <file>icons/cross.png</file>
+        <file>commandsPictures/lightedPicture.png</file>
+        <file>commandsPictures/emptyPicture.png</file>
+        <file>commandsPictures/crossedPicture.png</file>
+        <file>icons/french_flag.png</file>
+        <file>icons/union_jack_flag.png</file>
+        <file>pattern-px.png</file>
+        <file>commandsPictures/crtZPicture.png</file>
+    </qresource>
+    <qresource prefix="/maps">
+        <file>maps/7_easy.txt</file>
+        <file>maps/7_hard.txt</file>
+        <file>maps/7_normal.txt</file>
+        <file>maps/10_easy.txt</file>
+        <file>maps/10_hard.txt</file>
+        <file>maps/10_normal.txt</file>
+        <file>maps/14_easy.txt</file>
+        <file>maps/14_hard.txt</file>
+        <file>maps/14_normal.txt</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>others/Rules.txt</file>
+        <file>others/Rules_fr.txt</file>
+    </qresource>
+    <qresource prefix="/translation">
+        <file>LightUp_fr.qm</file>
+    </qresource>
+</RCC>
